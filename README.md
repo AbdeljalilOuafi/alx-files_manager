@@ -20,20 +20,12 @@ This project is a simple file management API built with Node.js, Express, MongoD
 - `npm run dev`: Start the server in development mode
 - `npm test`: Run the test suite
 
-## API Endpoints
-
-(To be implemented in future tasks)
-
 ## File Structure
 
 - `server.js`: Main Express server file
 - `worker.js`: Background worker for processing jobs
 - `utils/redis.js`: Redis utility functions
 - `tests/`: Test files
-
-## Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests.
 
 ## License
 
